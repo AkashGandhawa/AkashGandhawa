@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashGandhawa
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning at school.
+- 🌱 I’ve just completed high school learning.
 
 <!---
 AkashGandhawa/AkashGandhawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
