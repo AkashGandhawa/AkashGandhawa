@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkashGandhawa
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming well-thought systems that bring a positive contribution to the society.
 - 🌱 Undergraduate Student in AI.
 
 <!---
