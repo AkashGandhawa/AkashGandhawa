@@ -1,7 +1,7 @@
 # Hi, I'm Akash Gandhawa 👋
 
 🎓 Undergraduate in Artificial Intelligence (BSc Hons) at University of Moratuwa  
-💻 Programmer passionate about building well-thought systems that positively impact society  
+💻 Learning software engineer passionate about continuous learning and building well-thought systems that positively impact society  
 🌍 Based in Sri Lanka (UTC +05:30)  
 
 ---
