@@ -1,4 +1,4 @@
-# Hi, I'm Akash Gandhawa Rodrigo 👋
+# Hi, I'm Akash Gandhawa 👋
 
 🎓 Undergraduate in Artificial Intelligence (BSc Hons) at University of Moratuwa  
 💻 Programmer passionate about building well-thought systems that positively impact society  
@@ -7,9 +7,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashGandhawa&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashGandhawa&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGandhawa&layout=compact&theme=radical)
 
 ---
 
