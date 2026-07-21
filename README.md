@@ -19,8 +19,8 @@
 ---
 
 ### 🚀 Core Contributor (Small Teams)
-[![Team SPIGEN](https://img.shields.io/badge/Team_SPIGEN-Org-blue?style=for-the-badge&logo=github)](https://github.com/TeamSPIGEN)  
-[![Team EdgeRunners](https://img.shields.io/badge/Team_EdgeRunners-Org-green?style=for-the-badge&logo=github)](https://github.com/TeamEdgeRunners)
+[![Team SPIGEN](https://img.shields.io/badge/Team_SPIGEN-Org-blue?style=for-the-badge&logo=github)](https://github.com/Team-SPIGEN)  
+[![Team EdgeRunners](https://img.shields.io/badge/Team_EdgeRunners-Org-green?style=for-the-badge&logo=github)](https://github.com/Team-EdgeRunners)
 
 ---
 
