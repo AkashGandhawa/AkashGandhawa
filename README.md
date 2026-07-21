@@ -11,6 +11,19 @@
 
 ---
 
+## 👥 Organizations I'm in
+
+### 🌐 Contributor
+[![MoraSpirit](https://img.shields.io/badge/MoraSpirit-Org-red?style=for-the-badge&logo=github)](https://github.com/MoraSpirit)
+
+---
+
+### 🚀 Core Contributor (Small Teams)
+[![Team SPIGEN](https://img.shields.io/badge/Team_SPIGEN-Org-blue?style=for-the-badge&logo=github)](https://github.com/TeamSPIGEN)  
+[![Team EdgeRunners](https://img.shields.io/badge/Team_EdgeRunners-Org-green?style=for-the-badge&logo=github)](https://github.com/TeamEdgeRunners)
+
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashgandhawa)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
