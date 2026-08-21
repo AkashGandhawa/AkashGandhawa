@@ -9,6 +9,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashGandhawa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGandhawa&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AkashGandhawa&theme=radical)
 
 ---
 
