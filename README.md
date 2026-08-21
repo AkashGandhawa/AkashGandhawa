@@ -7,7 +7,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashGandhawa&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashGandhawa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGandhawa&layout=compact&theme=radical)
 
 ---
 
